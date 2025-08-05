@@ -1,1 +1,1 @@
-https://firebasestorage.googleapis.com/v0/b/keyword-scraper-project-dca83.firebasestorage.app/o/keywords.json?alt=media&token=7270b6c1-306c-4e01-8c6e-51174151ce46
+https://firebasestorage.googleapis.com/v0/b/keyword-scraper-project-dca83.firebasestorage.app/o/keywords.json?alt=media&token=b49bb495-d59c-415f-8e15-77aacba2d28f
